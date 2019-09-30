@@ -1,17 +1,17 @@
-canvas{
+canvas {
 	width: 100%;
 	height: 100%;
 	background-color: black;
 }
 
-body{
-	font-family: 'Montserrat', sans-serif;
-	width:100%;
+body {
+	font-family: "Montserrat", sans-serif;
+	width: 100%;
 	height: 100%;
 	margin: 0;
 }
 
-#start{
+#start {
 	position: absolute;
 	top: 150px;
 	display: flex;
@@ -19,7 +19,7 @@ body{
 	align-items: center;
 	justify-content: center;
 }
-h1{
+h1 {
 	font-size: 5vw;
 	text-transform: uppercase;
 	margin: 0;
